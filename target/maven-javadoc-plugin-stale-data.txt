@@ -1,0 +1,49 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/IntelliJ project/library/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/IntelliJ project/library/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'library 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'library 1.0-SNAPSHOT API'
+models
+ui
+utilities
+C:\IntelliJ project\library\src\main\java = 1732883355555
+C:\IntelliJ project\library\target\site\apidocs\allclasses-index.html = 1732888731687
+C:\IntelliJ project\library\target\site\apidocs\allpackages-index.html = 1732888731691
+C:\IntelliJ project\library\target\site\apidocs\copy.svg = 1732888731756
+C:\IntelliJ project\library\target\site\apidocs\element-list = 1732888731453
+C:\IntelliJ project\library\target\site\apidocs\help-doc.html = 1732888731743
+C:\IntelliJ project\library\target\site\apidocs\index-all.html = 1732888731729
+C:\IntelliJ project\library\target\site\apidocs\index.html = 1732888731655
+C:\IntelliJ project\library\target\site\apidocs\link.svg = 1732888731760
+C:\IntelliJ project\library\target\site\apidocs\member-search-index.js = 1732888731698
+C:\IntelliJ project\library\target\site\apidocs\module-search-index.js = 1732888731693
+C:\IntelliJ project\library\target\site\apidocs\overview-summary.html = 1732888731736
+C:\IntelliJ project\library\target\site\apidocs\overview-tree.html = 1732888731647
+C:\IntelliJ project\library\target\site\apidocs\package-search-index.js = 1732888731695
+C:\IntelliJ project\library\target\site\apidocs\script.js = 1732888731752
+C:\IntelliJ project\library\target\site\apidocs\search-page.js = 1732888731770
+C:\IntelliJ project\library\target\site\apidocs\search.html = 1732888731733
+C:\IntelliJ project\library\target\site\apidocs\search.js = 1732888731766
+C:\IntelliJ project\library\target\site\apidocs\serialized-form.html = 1732888731533
+C:\IntelliJ project\library\target\site\apidocs\stylesheet.css = 1732888731748
+C:\IntelliJ project\library\target\site\apidocs\tag-search-index.js = 1732888731700
+C:\IntelliJ project\library\target\site\apidocs\type-search-index.js = 1732888731697
